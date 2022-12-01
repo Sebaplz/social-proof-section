@@ -2,13 +2,13 @@
 
 body {
   font-family: "League Spartan", sans-serif;
-  background-image: url("../public/images/bg-pattern-top-mobile.svg");
+  background-image: url("/images/bg-pattern-top-mobile.svg");
   background-repeat: no-repeat;
 }
 
 @media screen and (min-width: 768px) {
   body {
-    background-image: url("../public/images/bg-pattern-top-desktop.svg");
+    background-image: url("/images/bg-pattern-top-desktop.svg");
     background-repeat: no-repeat;
   }
 }

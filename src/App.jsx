@@ -4,7 +4,7 @@ import RatingCard from "./components/RatingCard";
 
 function App() {
   return (
-    <main className="flex flex-col justify-center items-center min-h-screen bg-[url('../public/images/bg-pattern-bottom-mobile.svg')] lg:bg-[url('../public/images/bg-pattern-bottom-desktop.svg')] bg-no-repeat bg-cover px-5 py-20 lg:px-20 xl:px-32 2xl:px-56">
+    <main className="flex flex-col justify-center items-center min-h-screen bg-[url('/images/bg-pattern-bottom-mobile.svg')] lg:bg-[url('/images/bg-pattern-bottom-desktop.svg')] bg-no-repeat bg-cover px-5 py-20 lg:px-20 xl:px-32 2xl:px-56">
       <div className="lg:flex xl:justify-between">
         <div className="text-center lg:w-2/5">
           <h1 className="text-5xl text-[#502050] font-bold lg:text-left xl:text-6xl 2xl:text-7xl">
